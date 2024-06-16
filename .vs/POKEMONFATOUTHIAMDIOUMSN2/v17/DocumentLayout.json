@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\test\\testpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|solutionrelative:test\\testpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\test\\testplante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|solutionrelative:test\\testplante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\test\\testfeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|solutionrelative:test\\testfeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\test\\testeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|solutionrelative:test\\testeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2\\pokemonplante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|solutionrelative:pokemonfatouthiamdioumsn2\\pokemonplante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2\\pokemonfeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|solutionrelative:pokemonfatouthiamdioumsn2\\pokemonfeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2\\pokemoneau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|solutionrelative:pokemonfatouthiamdioumsn2\\pokemoneau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|solutionrelative:pokemonfatouthiamdioumsn2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD99C3F0-159C-4DF9-9333-E3C4FB1B0870}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|solutionrelative:pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|c:\\users\\hp\\source\\repos\\pokemonfatouthiamdioumsn2\\pokemonfatouthiamdioumsn2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8123A4E-591F-426B-BCCA-2B315F3406C4}|POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj|solutionrelative:pokemonfatouthiamdioumsn2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonPlante.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\PokemonPlante.cs",
+              "RelativeDocumentMoniker": "POKEMONFATOUTHIAMDIOUMSN2\\PokemonPlante.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\PokemonPlante.cs",
+              "RelativeToolTip": "POKEMONFATOUTHIAMDIOUMSN2\\PokemonPlante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:17:46.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonFeu.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\PokemonFeu.cs",
+              "RelativeDocumentMoniker": "POKEMONFATOUTHIAMDIOUMSN2\\PokemonFeu.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\PokemonFeu.cs",
+              "RelativeToolTip": "POKEMONFATOUTHIAMDIOUMSN2\\PokemonFeu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:17:27.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PokemonEau.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\PokemonEau.cs",
+              "RelativeDocumentMoniker": "POKEMONFATOUTHIAMDIOUMSN2\\PokemonEau.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\PokemonEau.cs",
+              "RelativeToolTip": "POKEMONFATOUTHIAMDIOUMSN2\\PokemonEau.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:16:49.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestPlante.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestPlante.cs",
+              "RelativeDocumentMoniker": "Test\\TestPlante.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestPlante.cs",
+              "RelativeToolTip": "Test\\TestPlante.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:11:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestFeu.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestFeu.cs",
+              "RelativeDocumentMoniker": "Test\\TestFeu.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestFeu.cs",
+              "RelativeToolTip": "Test\\TestFeu.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:10:35.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestEau.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestEau.cs",
+              "RelativeDocumentMoniker": "Test\\TestEau.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestEau.cs",
+              "RelativeToolTip": "Test\\TestEau.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:09:02.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T12:08:30.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestPokemon.cs",
+              "RelativeDocumentMoniker": "Test\\TestPokemon.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\Test\\TestPokemon.cs",
+              "RelativeToolTip": "Test\\TestPokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:01:21.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "POKEMONFATOUTHIAMDIOUMSN2.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj",
+              "RelativeDocumentMoniker": "POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj",
+              "RelativeToolTip": "POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T11:59:44.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\Pokemon.cs",
+              "RelativeDocumentMoniker": "POKEMONFATOUTHIAMDIOUMSN2\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\Pokemon.cs",
+              "RelativeToolTip": "POKEMONFATOUTHIAMDIOUMSN2\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:59:35.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\Program.cs",
+              "RelativeDocumentMoniker": "POKEMONFATOUTHIAMDIOUMSN2\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\POKEMONFATOUTHIAMDIOUMSN2\\POKEMONFATOUTHIAMDIOUMSN2\\Program.cs",
+              "RelativeToolTip": "POKEMONFATOUTHIAMDIOUMSN2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:17:09.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
